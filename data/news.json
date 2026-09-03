@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-09-03T09:00:00+00:00",
+  "items": [
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "Este es un ejemplo — se reemplaza solo con la primera ejecución automática",
+      "link": "https://chaco.gob.ar/",
+      "summary": "En cuanto actives el workflow de GitHub Actions (o corras el script a mano), este contenido de ejemplo se reemplaza por noticias reales y actualizadas de las fuentes configuradas en scripts/sources.json.",
+      "published": "2026-09-03T09:00:00+00:00"
+    },
+    {
+      "source_id": "pagina12",
+      "source_name": "Página/12",
+      "category": "Nación",
+      "title": "Noticia de ejemplo del portal nacional",
+      "link": "https://www.pagina12.com.ar/",
+      "summary": "Cada tarjeta muestra la fuente oficial, la categoría y un resumen breve, con un enlace directo a la nota original.",
+      "published": "2026-09-03T08:30:00+00:00"
+    }
+  ],
+  "failed_sources": []
+}

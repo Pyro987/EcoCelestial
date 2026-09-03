@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chaco-gobierno",
+    "name": "Gobierno del Chaco",
+    "category": "Provincia",
+    "feed_url": "https://chaco.gob.ar/ultimas-noticias/rss-noticias"
+  },
+  {
+    "id": "agencia-cyt",
+    "name": "Agencia I+D+i (Ministerio de Ciencia)",
+    "category": "Nación",
+    "feed_url": "https://www.agencia.mincyt.gob.ar/frontend/agencia/rss"
+  },
+  {
+    "id": "pagina12",
+    "name": "Página/12",
+    "category": "Nación",
+    "feed_url": "https://www.pagina12.com.ar/rss/portada"
+  },
+  {
+    "id": "rionegro",
+    "name": "Río Negro",
+    "category": "Regional",
+    "feed_url": "https://www.rionegro.com.ar/feed"
+  },
+  {
+    "id": "eldia",
+    "name": "El Día (La Plata)",
+    "category": "Regional",
+    "feed_url": "https://www.eldia.com/.rss"
+  }
+]

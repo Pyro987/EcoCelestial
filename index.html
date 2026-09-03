@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eco Celestial — Radio</title>
+<meta name="description" content="Eco Celestial: radio cristiana en vivo, las 24 horas, con portal de noticias oficiales actualizado todos los días.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Karla:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<a class="skip-link" href="#contenido">Pasar al contenido</a>
+
+<header class="topbar">
+  <div class="topbar__inner">
+    <span class="topbar__mark">Eco Celestial</span>
+    <nav class="topbar__nav" aria-label="Navegación principal">
+      <a href="#radio">Radio</a>
+      <a href="#programacion">Programación</a>
+      <a href="#noticias">Noticias</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<main id="contenido">
+
+  <!-- HERO -->
+  <section class="hero" id="radio">
+    <div class="hero__waves" aria-hidden="true">
+      <svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+        <circle class="wave wave--1" cx="400" cy="400" r="120"/>
+        <circle class="wave wave--2" cx="400" cy="400" r="220"/>
+        <circle class="wave wave--3" cx="400" cy="400" r="320"/>
+        <circle class="wave wave--4" cx="400" cy="400" r="420"/>
+      </svg>
+    </div>
+
+    <div class="hero__content">
+      <p class="hero__eyebrow">Radio online · las 24 horas</p>
+      <h1 class="hero__title">Eco&nbsp;Celestial</h1>
+      <p class="hero__tagline">Música, palabra y compañía para tu día, transmitiendo desde el corazón del Chaco.</p>
+
+      <div class="player" role="region" aria-label="Reproductor de radio en vivo">
+        <button class="player__button" id="playButton" type="button" aria-label="Reproducir Eco Celestial en vivo">
+          <svg class="icon icon--play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+          <svg class="icon icon--pause" viewBox="0 0 24 24" aria-hidden="true" hidden><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+        </button>
+        <div class="player__info">
+          <span class="player__status" id="playerStatus">
+            <span class="live-dot" aria-hidden="true"></span> Presioná play para escuchar
+          </span>
+          <span class="player__label">Transmisión en vivo</span>
+        </div>
+      </div>
+      <audio id="radioStream" preload="none">
+        <source src="https://stream.zeno.fm/0gy32euz4rhvv" type="audio/mpeg">
+      </audio>
+    </div>
+  </section>
+
+  <!-- PROGRAMACIÓN -->
+  <section class="programming" id="programacion">
+    <div class="section-inner">
+      <h2 class="section-title">Programación</h2>
+      <ul class="schedule">
+        <li class="schedule__item">
+          <span class="schedule__time">06:00 – 09:00</span>
+          <span class="schedule__name">Amanecer con fe</span>
+        </li>
+        <li class="schedule__item">
+          <span class="schedule__time">09:00 – 12:00</span>
+          <span class="schedule__name">Música y palabra</span>
+        </li>
+        <li class="schedule__item">
+          <span class="schedule__time">12:00 – 14:00</span>
+          <span class="schedule__name">Mediodía en comunidad</span>
+        </li>
+        <li class="schedule__item">
+          <span class="schedule__time">18:00 – 20:00</span>
+          <span class="schedule__name">Tarde de alabanza</span>
+        </li>
+        <li class="schedule__item">
+          <span class="schedule__time">20:00 – 22:00</span>
+          <span class="schedule__name">Noche de testimonios</span>
+        </li>
+      </ul>
+      <p class="schedule__note">Programación de ejemplo — reemplazala por la grilla real de la radio.</p>
+    </div>
+  </section>
+
+  <!-- NOTICIAS -->
+  <section class="news" id="noticias">
+    <div class="section-inner">
+      <div class="news__header">
+        <div>
+          <h2 class="section-title">Noticias oficiales</h2>
+          <p class="news__subtitle">Se actualizan solas todos los días desde fuentes oficiales de Argentina.</p>
+        </div>
+        <p class="news__updated" id="newsUpdated"></p>
+      </div>
+
+      <div class="news__grid" id="newsGrid">
+        <!-- Las tarjetas de noticias se insertan acá con JS a partir de data/news.json -->
+      </div>
+
+      <p class="news__empty" id="newsEmpty" hidden>No se pudieron cargar las noticias en este momento.</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer" id="contacto">
+  <div class="section-inner footer__inner">
+    <div>
+      <span class="footer__mark">Eco Celestial</span>
+      <p class="footer__tagline">Radio cristiana online — Presidencia Roque Sáenz Peña, Chaco</p>
+    </div>
+    <div class="footer__meta">
+      <p>Proyecto presentado a la Municipalidad</p>
+      <p>Sitio publicado con GitHub Pages</p>
+    </div>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
