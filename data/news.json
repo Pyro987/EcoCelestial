@@ -1,24 +1,179 @@
 {
-  "generated_at": "2026-09-03T09:00:00+00:00",
+  "generated_at": "2026-09-03T07:43:17.159786+00:00",
   "items": [
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Experto en penales, ahora va por Racing",
+      "link": "https://www.eldia.com/deportes/experto-en-penales-ahora-va-por-racing-deportes_1788417038",
+      "summary": "Primero Vélez falló una ejecución en el último minuto y luego Momtero atajó dos. En la Copa ganó 13 de 15 veces",
+      "published": "2026-09-03T06:30:38+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Llegó el volante: Jalil Elías, el “5” que pedía el Cacique",
+      "link": "https://www.eldia.com/deportes/llego-el-volante-jalil-elias-el-5-que-pedia-el-cacique-deportes_1788416918",
+      "summary": "El jugador de Tigre, con pasado en San Lorenzo y Godoy Cruz firmará hasta diciembre 2027. Tiene nacionalidad siria y jugó la Copa Asia 2023. Podrá ser parte de la Copa Libertadores",
+      "published": "2026-09-03T06:28:38+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "La Reserva albirroja venció a Ferro de visitante",
+      "link": "https://www.eldia.com/deportes/la-reserva-albirroja-vencio-a-ferro-de-visitante-deportes_1788416798",
+      "summary": "",
+      "published": "2026-09-03T06:26:38+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Nacional pensó en Germán Brunati pero se queda en el Lobo",
+      "link": "https://www.eldia.com/deportes/nacional-penso-en-german-brunati-pero-se-queda-en-el-lobo-deportes_1788416678",
+      "summary": "",
+      "published": "2026-09-03T06:24:38+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Russo apuntó contra Beligoy por los arbitrajes",
+      "link": "https://www.eldia.com/deportes/russo-apunto-contra-beligoy-por-los-arbitrajes-deportes_1788416558",
+      "summary": "",
+      "published": "2026-09-03T06:22:38+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Un aplauso para Leo en el minuto 10 de cada partido",
+      "link": "https://www.eldia.com/deportes/un-aplauso-para-leo-en-el-minuto-10-de-cada-partido-deportes_1788416438",
+      "summary": "Luego del anuncio de su retiro de la Selección, desde AFA dieron detalles del reconocimiento al capitán campeón del mundo",
+      "published": "2026-09-03T06:20:38+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Bienestar para todos los días y más chances de alcanzar grandes premios",
+      "link": "https://www.rionegro.com.ar/sociedad/bienestar-para-todos-los-dias-y-mas-chances-de-alcanzar-grandes-premios/",
+      "summary": "",
+      "published": "2026-09-03T04:53:00+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Andreani suma más bitrenes a su flota y prevé incorporar 20 nuevas unidades",
+      "link": "https://www.rionegro.com.ar/energia/andreani-suma-mas-bitrenes-a-su-flota-y-preve-incorporar-20-nuevas-unidades/",
+      "summary": "",
+      "published": "2026-09-03T03:50:00+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Mercuria tomó el control de la red de estaciones Shell tras formalizar la compra de los activos de Raízen en Argentina",
+      "link": "https://www.rionegro.com.ar/energia/mercuria-tomo-el-control-de-la-red-de-estaciones-shell-tras-formalizar-la-compra-de-los-activos-de-raizen-en-argentina/",
+      "summary": "",
+      "published": "2026-09-03T03:35:00+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "La banca de Boca a Montero tras ser figura en los penales ante Vélez: «Confiamos a muerte en él»",
+      "link": "https://www.rionegro.com.ar/deportes/la-banca-de-boca-a-montero-tras-ser-figura-en-los-penales-ante-velez-confiamos-a-muerte-en-el-4707665/",
+      "summary": "",
+      "published": "2026-09-03T03:27:14+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Necrológicas de hoy, jueves 3 de septiembre de 2026",
+      "link": "https://www.rionegro.com.ar/servicios/necrologicas-de-hoy-jueves-3-de-septiembre-de-2026/",
+      "summary": "",
+      "published": "2026-09-03T03:20:05+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "El hackeo al legajo de Weretilneck ya registró su primera audiencia judicial, con cuestionamientos",
+      "link": "https://www.rionegro.com.ar/politica/el-hackeo-al-legajo-de-weretilneck-ya-registro-su-primera-audiencia-judicial-con-cuestionamientos/",
+      "summary": "",
+      "published": "2026-09-03T03:15:00+00:00"
+    },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "Este es un ejemplo — se reemplaza solo con la primera ejecución automática",
-      "link": "https://chaco.gob.ar/",
-      "summary": "En cuanto actives el workflow de GitHub Actions (o corras el script a mano), este contenido de ejemplo se reemplaza por noticias reales y actualizadas de las fuentes configuradas en scripts/sources.json.",
-      "published": "2026-09-03T09:00:00+00:00"
+      "title": "EL CHACO ELIGE A SU NUEVA EMBAJADORA DEL DORADO ENTRE 12 FINALISTAS",
+      "link": "http://chaco.gob.ar/noticia-el-chaco-elige-a-su-nueva-embajadora-del-dorado-entre-12-finalistas-2026-09-02-19-11",
+      "summary": "En la previa del XXII Torneo Internacional de Pesca del Dorado con Devolución, que se desarrollará del 4 al 6 de septiembre en Isla del Cerrito, fueron presentadas oficialmente las 12 finalistas del concurso Embajadora…",
+      "published": "2026-09-02T22:11:12+00:00"
     },
     {
-      "source_id": "pagina12",
-      "source_name": "Página/12",
-      "category": "Nación",
-      "title": "Noticia de ejemplo del portal nacional",
-      "link": "https://www.pagina12.com.ar/",
-      "summary": "Cada tarjeta muestra la fuente oficial, la categoría y un resumen breve, con un enlace directo a la nota original.",
-      "published": "2026-09-03T08:30:00+00:00"
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "SAMEEP REPARARÁ UN CAÑO DE AGUA POTABLE DE 106 AÑOS QUE ABASTECE A LA CISTERNA CENTRAL DE RESISTENCIA",
+      "link": "http://chaco.gob.ar/noticia-sameep-reparara-un-cano-de-agua-potable-de-106-anos-que-abastece-a-la-cisterna-central-de-resistencia-2026-09-02-18-21",
+      "summary": "Sameep llevará adelante una importante intervención sobre una cañería principal de hierro fundido ubicada sobre avenida Las Heras, entre las alturas 300 y 400, en Resistencia. Se trata de una infraestructura que data…",
+      "published": "2026-09-02T21:21:36+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "ISLA DEL CERRITO: SECHEEP REFUERZA EL SERVICIO ELÉCTRICO Y RENUEVA EL ALUMBRADO PARA EL TORNEO DEL DORADO",
+      "link": "http://chaco.gob.ar/noticia-isla-del-cerrito-secheep-refuerza-el-servicio-electrico-y-renueva-el-alumbrado-para-el-torneo-del-dorado-2026-09-02-16-03",
+      "summary": "En el marco de los preparativos para la 22ª edición del Torneo Internacional de Pesca del Dorado con Devolución, que se realizará del 4 al 6 de septiembre en la Isla del Cerrito, Secheep avanza con trabajos de mejora y…",
+      "published": "2026-09-02T19:03:14+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "DÍA DE LA INDUSTRIA: ZDERO ACOMPAÑÓ EL CRECIMIENTO DE MATERTEC Y FORTALECE EL PARQUE INDUSTRIAL DE BARRANQUERAS",
+      "link": "http://chaco.gob.ar/noticia-dia-de-la-industria-zdero-acompano-el-crecimiento-de-matertec-y-fortalece-el-parque-industrial-de-barranqueras-2026-09-02-14-12",
+      "summary": "Este miércoles, el Gobernador Leandro Zdero acompañó la inauguración de la nueva sede de la firma Matertec SRL, en el Parque Industrial de Barranqueras. También, anunció la ampliación de la potencia eléctrica del predio…",
+      "published": "2026-09-02T17:12:31+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "EL GOBIERNO PROVINCIAL FORTALECE LA INFRAESTRUCTURA HÍDRICA CON MÁS MANTENIMIENTO Y LIMPIEZA DE CANALES",
+      "link": "http://chaco.gob.ar/noticia-el-gobierno-provincial-fortalece-la-infraestructura-hidrica-con-mas-mantenimiento-y-limpieza-de-canales-2026-09-02-14-09",
+      "summary": "El Gobierno del Chaco, a través de la Administración Provincial del Agua (APA), profundiza las tareas de mantenimiento, limpieza y planificación de intervenciones sobre la red de canales de la provincia, con el objetivo…",
+      "published": "2026-09-02T17:09:36+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "ZDERO ENTREGÓ 10 VEHÍCULOS A LA POLICÍA Y ANUNCIÓ 30 NUEVAS UNIDADES PARA LOS PRÓXIMOS MESES",
+      "link": "http://chaco.gob.ar/noticia-zdero-entrego-10-vehiculos-a-la-policia-y-anuncio-30-nuevas-unidades-para-los-proximos-meses-2026-09-02-10-05",
+      "summary": "En el marco del Plan Estratégico de Seguridad Pública, el gobernador Leandro Zdero encabezó este miércoles la presentación y entrega de 10 nuevos vehículos destinados a fortalecer la capacidad operativa de la Policía…",
+      "published": "2026-09-02T13:05:44+00:00"
     }
   ],
-  "failed_sources": []
+  "failed_sources": [
+    {
+      "id": "agencia-cyt",
+      "name": "Agencia I+D+i (Ministerio de Ciencia)",
+      "error": "No se pudo leer el feed (<urlopen error [Errno 111] Connection refused>)"
+    },
+    {
+      "id": "pagina12",
+      "name": "Página/12",
+      "error": "No se pudo leer el feed (<unknown>:2:2395: not well-formed (invalid token))"
+    }
+  ]
 }
