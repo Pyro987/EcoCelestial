@@ -1,32 +1,113 @@
 {
-  "generated_at": "2026-09-09T16:12:50.684610+00:00",
+  "generated_at": "2026-09-09T17:57:13.981074+00:00",
   "items": [
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "¿Cómo será trabajar en el futuro? Bariloche abre el debate sobre inteligencia artificial y los jóvenes",
+      "link": "https://www.rionegro.com.ar/sociedad/como-sera-trabajar-en-el-futuro-bariloche-abre-el-debate-sobre-inteligencia-artificial-y-los-jovenes-4715192/",
+      "summary": "",
+      "published": "2026-09-09T17:56:38+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Petroleros inauguró una estatua de Guillermo Pereyra en el Parque Industrial de Rincón de los Sauces",
+      "link": "https://www.rionegro.com.ar/municipales/petroleros-inauguro-una-estatua-de-guillermo-pereyra-en-el-parque-industrial-de-rincon-de-los-sauces-4715200/",
+      "summary": "",
+      "published": "2026-09-09T17:51:15+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "#SolosNoPodemos: Neuquén despliega actividades de prevención y concientización sobre el suicidio",
+      "link": "https://www.rionegro.com.ar/sociedad/solosnopodemos-neuquen-despliega-actividades-de-prevencion-y-concientizacion-sobre-el-suicidio-4715177/",
+      "summary": "",
+      "published": "2026-09-09T17:40:26+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "El Banco Central defendió la reforma de la Carta Orgánica y apuntó contra el financiamiento al Tesoro",
+      "link": "https://www.rionegro.com.ar/politica/el-banco-central-defendio-la-reforma-de-la-carta-organica-y-apunto-contra-el-financiamiento-al-tesoro-4715168/",
+      "summary": "",
+      "published": "2026-09-09T17:37:31+00:00"
+    },
     {
       "source_id": "eldia",
       "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Comenzó en Diputados la sesión para avanzar en discapacidad y morosidad",
-      "link": "https://www.eldia.com/politica-y-economia/la-oposicion-presiona-con-una-sesion-que-incomoda-al-gobierno-politica-y-economia_1788932471",
-      "summary": "La oposici&oacute;n desaf&iacute;a al oficialismo en el Congreso con temas sensibles",
-      "published": "2026-09-09T16:10:47+00:00"
+      "title": "El Mate presentó a Marcos Flores como su nuevo entrenador",
+      "link": "https://www.eldia.com/quilmes/el-mate-presento-a-marcos-flores-como-su-nuevo-entrenador-quilmes_1788963780",
+      "summary": "",
+      "published": "2026-09-09T17:33:49+00:00"
     },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
       "category": "Regional",
-      "title": "MasterChef Celebrity con elenco completo: uno a uno los 24 participantes de la nueva edición",
-      "link": "https://www.rionegro.com.ar/redes/masterchef-celebrity-con-elenco-completo-uno-a-uno-los-24-participantes-de-la-nueva-edicion-4714826/",
+      "title": "Condenaron a 5 años de prisión efectiva a la extitular de la Cooperativa 14 de Octubre por 63 estafas en Neuquén",
+      "link": "https://www.rionegro.com.ar/justicia/condenaron-a-5-anos-de-prision-efectiva-a-la-extitular-de-la-cooperativa-14-de-octubre-por-63-estafas-en-neuquen-4715158/",
       "summary": "",
-      "published": "2026-09-09T16:06:02+00:00"
+      "published": "2026-09-09T17:30:24+00:00"
     },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
       "category": "Regional",
-      "title": "Ángel Di María acalló los rumores: «No quiero ni me voy a retirar»",
-      "link": "https://www.rionegro.com.ar/deportes/angel-di-maria-hablo-en-conferencia-y-acallo-los-rumores-no-quiero-ni-me-voy-a-retirar-4714973/",
+      "title": "IUPA abrió la inscripción para mayores de 25 años que no tengan título secundario",
+      "link": "https://www.rionegro.com.ar/sociedad/iupa-abrio-la-inscripcion-para-mayores-de-25-anos-que-no-tengan-titulo-secundario-4715103/",
       "summary": "",
-      "published": "2026-09-09T16:05:23+00:00"
+      "published": "2026-09-09T17:28:34+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Por qué cada vez más jóvenes platenses eligen no tener hijos",
+      "link": "https://www.eldia.com/marcasytendencias/por-que-cada-vez-mas-jovenes-platenses-eligen-no-tener-hijos-marcasytendencias_1788971520",
+      "summary": "",
+      "published": "2026-09-09T16:49:03+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Ladrones intentaron robar una casa en City Bell pero un vecino los sacó a los tiros",
+      "link": "https://www.eldia.com/policiales/intentaron-entrar-a-una-casa-en-city-bell-y-un-vecino-logro-disuadir-a-los-delincuentes-policiales_1788971160",
+      "summary": "El episodio ocurri&oacute; hoy alrededor de las 5 de la madrugada en 27 y 463. El propietario advirti&oacute; la presencia de los sospechosos y consigui&oacute; evitar que ingresaran a la vivienda. Seg&uacute;n los…",
+      "published": "2026-09-09T16:47:50+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Qué dice el nuevo parte médico de Mirtha Legrand",
+      "link": "https://www.eldia.com/espectaculos/que-dice-el-nuevo-parte-medico-de-mirtha-legrand-espectaculos_1788971940",
+      "summary": "La conductora debi&oacute; ser internada a ra&iacute;z de un cuadro respiratorio",
+      "published": "2026-09-09T16:46:38+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Bahía Blanca: Susbielles volvió a reclamar obras cloacales y apuntó contra ABSA",
+      "link": "https://www.eldia.com/politica-y-economia/bahia-blanca-susbielles-volvio-a-reclamar-obras-cloacales-y-apunto-contra-absa-politica-y-economia_1788971760",
+      "summary": "El jefe comunal advirti&oacute; que podr&iacute;an impulsar una iniciativa legislativa para asumir la distribuci&oacute;n h&iacute;drica si la empresa no garantiza inversiones para renovar colectores.",
+      "published": "2026-09-09T16:38:27+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Conmemoración a Ricardo Balbín, a 45 años de su fallecimiento",
+      "link": "https://www.eldia.com/politica-y-economia/conmemoracion-a-ricardo-balbin-a-45-anos-de-su-fallecimiento-politica-y-economia_1788970860",
+      "summary": "Dirigentes del radicalismo provincial y local y el intendente, Julio Alak, fueron de la partida en el Cementerio local",
+      "published": "2026-09-09T16:36:30+00:00"
     },
     {
       "source_id": "chaco-gobierno",
@@ -36,42 +117,6 @@
       "link": "http://chaco.gob.ar/noticia-mas-de-100-productores-pymes-y-emprendedores-participaron-de-una-charla-sobre-financiamiento-y-empleo-en-quitilipi-2026-09-09-12-55",
       "summary": "En representación del Gobierno provincial acompañó la subsecretaria de Planificación, Evaluación y Vinculación Estratégica, Noel Ibarra; también estuvieron el intendente de Quitilipi, Ariel Lovey, y el presidente de la…",
       "published": "2026-09-09T15:55:29+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "En Argentina crece la búsqueda de empleados con habilidades en IA: ¿qué perfiles piden?",
-      "link": "https://www.eldia.com/informacion-general/en-argentina-crece-la-busqueda-de-empleados-con-habilidades-en-ia-que-perfiles-piden-informacion-general_1788968640",
-      "summary": "La nueva tecnolog&iacute;a tiene cada vez m&aacute;s relevancia en los &aacute;mbitos laborales y se mete&nbsp;de lleno en el mercado",
-      "published": "2026-09-09T15:51:53+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Boca podría sufrir una baja sensible para el duelo del viernes ante Central Córdoba",
-      "link": "https://www.rionegro.com.ar/deportes/boca-podria-sufrir-una-baja-sensible-para-el-duelo-del-viernes-ante-central-cordoba-4714912/",
-      "summary": "",
-      "published": "2026-09-09T15:51:49+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Allanaron un exclusivo complejo turístico cerca de un paso a Chile: Gendermería atravesó kilómetros de nieve a pie para llegar",
-      "link": "https://www.rionegro.com.ar/policiales/allanaron-un-exclusivo-complejo-turistico-cerca-de-un-paso-a-chile-gendermeria-atraveso-kilometros-de-nieve-a-pie-para-llegar-4714864/",
-      "summary": "",
-      "published": "2026-09-09T15:49:54+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "La empresa de dos investigadores de Bariloche que busca medir y recuperar la biodiversidad recibió el Premio Perfil",
-      "link": "https://www.rionegro.com.ar/sociedad/la-empresa-de-dos-investigadores-de-bariloche-que-busca-medir-y-recuperar-la-biodiversidad-recibio-el-premio-perfil-4714884/",
-      "summary": "",
-      "published": "2026-09-09T15:34:58+00:00"
     },
     {
       "source_id": "chaco-gobierno",
@@ -92,33 +137,6 @@
       "published": "2026-09-09T15:21:27+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Río Negro capacita a proveedores para venderle al Estado: cómo inscribirse y participar de las compras públicas",
-      "link": "https://www.rionegro.com.ar/politica/rio-negro-capacita-a-proveedores-para-venderle-al-estado-como-inscribirse-y-participar-de-las-compras-publicas-4714604/",
-      "summary": "",
-      "published": "2026-09-09T15:20:30+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Preocupación por la salud del Pocho Lavezzi: el video de su reaparición en Italia",
-      "link": "https://www.eldia.com/espectaculos/preocupacion-por-la-salud-del-pocho-lavezzi-las-imagenes-de-su-reaparicion-en-italia-espectaculos-deportes_1788963060",
-      "summary": "",
-      "published": "2026-09-09T15:04:11+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Misterio por Fideo Di María: convocó a una conferencia de prensa para esta tarde",
-      "link": "https://www.eldia.com/deportes/misterio-por-fideo-di-maria-convoco-a-una-conferencia-de-prensa-para-esta-tarde-deportes_1788965400",
-      "summary": "El &iacute;dolo de la Selecci&oacute;n y de Rosario Central hablar&aacute; a las 14:45. El anuncio gener&oacute; expectativas",
-      "published": "2026-09-09T15:03:57+00:00"
-    },
-    {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
@@ -126,24 +144,6 @@
       "link": "http://chaco.gob.ar/noticia-naidenoff-destaco-el-alcance-de-futuro-y-confirmo-que-ya-hay-5-200-estudiantes-inscriptos-2026-09-09-12-01",
       "summary": "La ministra de Educación, Sofía Naidenoff, destacó el alcance del programa +Futuro, recientemente presentado por el gobernador Leandro Zdero, que busca reconocer el esfuerzo de los estudiantes del último año del Nivel…",
       "published": "2026-09-09T15:01:56+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Corte y caos de tránsito en diferentes puntos del centro de La Plata",
-      "link": "https://www.eldia.com/la-ciudad/corte-y-caos-de-transito-frente-al-ministerio-de-educacion-la-ciudad_1788960420",
-      "summary": "Trabajadores nucleados en SOEME se movilizaron para reclamar mejoras salariales y estabilidad laboral. La manifestaci&oacute;n genera importantes complicaciones para circular por la zona de 13 entre 56 y 57.",
-      "published": "2026-09-09T14:48:06+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Alan Lescano fue presentado en el Vasco y tuvo un gesto con Gimnasia",
-      "link": "https://www.eldia.com/deportes/alan-lescano-fue-presentado-en-el-vasco-y-tuvo-un-gesto-con-gimnasia-usara-la-camiseta-22-deportes_1788961020",
-      "summary": "",
-      "published": "2026-09-09T14:07:17+00:00"
     },
     {
       "source_id": "chaco-gobierno",
