@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-09-09T16:10:21.361329+00:00",
+  "generated_at": "2026-09-09T16:12:50.684610+00:00",
   "items": [
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Comenzó en Diputados la sesión para avanzar en discapacidad y morosidad",
+      "link": "https://www.eldia.com/politica-y-economia/la-oposicion-presiona-con-una-sesion-que-incomoda-al-gobierno-politica-y-economia_1788932471",
+      "summary": "La oposici&oacute;n desaf&iacute;a al oficialismo en el Congreso con temas sensibles",
+      "published": "2026-09-09T16:10:47+00:00"
+    },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
@@ -72,15 +81,6 @@
       "link": "http://chaco.gob.ar/noticia-nande-llego-a-la-josefina-con-herramientas-e-insumos-para-producir-y-aprender-2026-09-09-12-27",
       "summary": "A través de Ñande, a cargo de su coordinador, “Belchi” Silva se continúa fortaleciendo sus actividades productivas y educativas a través del acompañamiento y la articulación entre organismos provinciales, instituciones…",
       "published": "2026-09-09T15:27:45+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Comenzó en Diputados la sesión para avanzar en discapacidad y morosidad",
-      "link": "https://www.eldia.com/politica-y-economia/la-oposicion-presiona-con-una-sesion-que-incomoda-al-gobierno-politica-y-economia_1788932471",
-      "summary": "La oposici&oacute;n desaf&iacute;a al oficialismo en el Congreso con temas sensibles",
-      "published": "2026-09-09T15:27:11+00:00"
     },
     {
       "source_id": "chaco-gobierno",
