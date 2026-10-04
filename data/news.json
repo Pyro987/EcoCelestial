@@ -1,14 +1,158 @@
 {
-  "generated_at": "2026-10-03T15:16:57.231996+00:00",
+  "generated_at": "2026-10-04T16:02:05.693009+00:00",
   "items": [
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Los dos objetivos claves para el Gobierno en la economía para 2027: los escenarios de cara a la elección",
+      "link": "https://www.rionegro.com.ar/economia/los-dos-objetivos-claves-para-el-gobierno-en-la-economia-para-2027-los-escenarios-de-cara-a-la-eleccion-4747306/",
+      "summary": "",
+      "published": "2026-10-04T16:00:19+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Toro goleador: el récord que alcanzó Lautaro Martínez en la Selección Argentina",
+      "link": "https://www.rionegro.com.ar/deportes/toro-goleador-el-record-que-alcanzo-lautaro-martinez-en-la-seleccion-argentina-4747302/",
+      "summary": "",
+      "published": "2026-10-04T15:31:34+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Dos heridos por un choque frontal sobre la Ruta 67, en Centenario",
+      "link": "https://www.rionegro.com.ar/sociedad/dos-heridos-por-un-choque-frontal-sobre-la-ruta-67-en-centenario-4747288/",
+      "summary": "",
+      "published": "2026-10-04T15:10:29+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "VIDEO. Lo tiraron al piso, le robaron la bicicleta y le pegaron un tiro en una pierna en La Plata",
+      "link": "https://www.eldia.com/policiales/motochorros-lo-tiraron-al-piso-le-robaron-la-bicicleta-y-le-pegaron-un-tiro-en-una-pierna-en-los-hornos-policiales_1791115740",
+      "summary": "El violento asalto ocurri&oacute; este domingo a las 7.40 en 58 entre 147 y 148. Dos delincuentes que se movilizaban en una moto le sustrajeron la bicicleta a un hombre y le dispararon antes de escapar. La…",
+      "published": "2026-10-04T15:02:09+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "«Las ciudades son libros», la tira de Chelo Candia en el suple Viajes y Turismo",
+      "link": "https://www.rionegro.com.ar/voy-turismo/las-ciudades-son-libros-la-tira-de-chelo-candia-en-el-suple-viajes-y-turismo/",
+      "summary": "",
+      "published": "2026-10-04T15:00:00+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Sin descanso: cuándo y dónde vuelve a correr Franco Colapinto en la Fórmula 1",
+      "link": "https://www.rionegro.com.ar/deportes/sin-descanso-cuando-y-donde-vuelve-a-correr-franco-colapinto-en-la-formula-1-4747259/",
+      "summary": "",
+      "published": "2026-10-04T14:59:20+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Una calle clave que une dos barrios de La Plata y hace años espera el asfalto",
+      "link": "https://www.eldia.com/la-ciudad/una-calle-clave-que-une-dos-barrios-de-la-plata-y-hace-anos-espera-el-asfalto-la-ciudad_1791124500",
+      "summary": "Hace a&ntilde;os, la calle 52 permanece sin pavimentar entre las avenidas 143 y 149. Los vecinos sostienen que se trata de una arteria fundamental para conectar Los Hornos con San Carlos y reclaman una obra que permita…",
+      "published": "2026-10-04T14:44:45+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Patagonia Wine Fest 2026 presenta su nueva sede y una propuesta renovada",
+      "link": "https://www.rionegro.com.ar/sociedad/patagonia-wine-fest-2026-presenta-su-nueva-sede-y-una-propuesta-renovada-4747266/",
+      "summary": "",
+      "published": "2026-10-04T14:35:07+00:00"
+    },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "EN LA CÁMARA DE COMERCIO INTERNACIONAL, ZDERO POSICIONÓ A CHACO COMO DESTINO PARA INVERTIR Y PRODUCIR",
-      "link": "http://chaco.gob.ar/noticia-en-la-camara-de-comercio-internacional-zdero-posiciono-a-chaco-como-destino-para-invertir-y-producir-2026-10-03-12-16",
-      "summary": "El Gobernador, junto al presidente de la Agencia Chaco, Martín Braillard Poccard, presentó ante empresarios europeos las oportunidades que ofrece la provincia para el desarrollo de negocios, la generación de empleo y la…",
-      "published": "2026-10-03T15:16:41+00:00"
+      "title": "JUAN JOSÉ CASTELLI CELEBRÓ 90 AÑOS DE HISTORIA E IDENTIDAD",
+      "link": "http://chaco.gob.ar/noticia-juan-jose-castelli-celebro-90-anos-de-historia-e-identidad-2026-10-04-11-05",
+      "summary": "Carmen Delgado, a cargo del Poder Ejecutivo provincial, encabezó el acto aniversario y destacó el esfuerzo de los habitantes del norte chaqueño, la diversidad cultural y el compromiso de la comunidad para seguir…",
+      "published": "2026-10-04T14:05:56+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "El mensaje de García Cuerva en Luján: “Se está infectando el alma del pueblo”",
+      "link": "https://www.eldia.com/politica-y-economia/el-mensaje-de-garcia-cuerva-en-lujan-se-esta-infectando-el-alma-del-pueblo-politica-y-economia_1791114540",
+      "summary": "El arzobispo de Buenos Aires encabez&oacute; la misa central de la 52&deg; Peregrinaci&oacute;n Juvenil a Luj&aacute;n y lanz&oacute; una dura advertencia contra la intolerancia, la violencia y los discursos de odio.…",
+      "published": "2026-10-04T11:59:50+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Domingo soleado y primaveral en La Plata: cómo estará el tiempo en el inicio de la semana",
+      "link": "https://www.eldia.com/la-ciudad/domingo-soleado-y-primaveral-en-la-plata-como-estara-el-tiempo-en-el-inicio-de-la-semana-la-ciudad_1791111900",
+      "summary": "La ciudad tendr&aacute; una jornada con buenas condiciones meteorol&oacute;gicas, cielo algo a parcialmente nublado y temperaturas que oscilar&aacute;n entre los 8 y los 20 grados. El lunes continuar&aacute; el tiempo…",
+      "published": "2026-10-04T11:09:12+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Música, teatro, literarias y más en la agenda de espectáculos para este finde en La Plata",
+      "link": "https://www.eldia.com/espectaculos/musica-teatro-literarias-y-mas-en-la-agenda-de-espectaculos-para-este-finde-en-la-plata-septimo-dia_1791097021",
+      "summary": "",
+      "published": "2026-10-04T10:44:18+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Gremlins 3: ¿Por qué nos sigue atrapando la nostalgia de los clásicos de los 80 y 90?",
+      "link": "https://www.eldia.com/espectaculos/gremlins-3-por-que-nos-sigue-atrapando-la-nostalgia-de-los-clasicos-de-los-80-y-90-temas_1791100633",
+      "summary": "Warner Bros. confirm&oacute; que Gizmo vuelve a los cines en 2028. Un viaje emocional que demuestra por qu&eacute; las historias de nuestra infancia son un refugio imbatible en tiempos de pantallas fr&iacute;as",
+      "published": "2026-10-04T08:25:02+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "LA FIL CHACO 2026 VA POR MÁS: UN DOMINGO CON LIBROS, AUTORES Y GRANDES PROPUESTAS",
+      "link": "http://chaco.gob.ar/noticia-la-fil-chaco-2026-va-por-mas-un-domingo-con-libros-autores-y-grandes-propuestas-2026-10-03-21-54",
+      "summary": "La Feria Iberoamericana del Libro Chaco 2026 continúa este domingo 4 de octubre en el Domo del Centenario, con entrada libre y gratuita. La jornada tendrá una amplia agenda de presentaciones, charlas, rondas de lectura,…",
+      "published": "2026-10-04T00:54:36+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "FIL CHACO 2026: EL PROGRAMA FORTALEZA ABORDÓ LA PREVENCIÓN EN LAS PROBLEMÁTICAS ADOLESCENTES",
+      "link": "http://chaco.gob.ar/noticia-fil-chaco-2026-el-programa-fortaleza-abordo-la-prevencion-en-las-problematicas-adolescentes-2026-10-03-21-17",
+      "summary": "En el marco de las actividades de la Feria Iberoamericana del Libro (FIL Chaco 2026), el Programa Fortaleza llevó adelante una destacada charla abierta titulada “Suicidio adolescente y consumo problemático”, que convocó…",
+      "published": "2026-10-04T00:17:18+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "GENERAL SAN MARTÍN: SAMEEP AVANZA CON LA LIMPIEZA DE LAS LAGUNAS CLOACALES Y EL CANAL DERIVADOR",
+      "link": "http://chaco.gob.ar/noticia-general-san-martin-sameep-avanza-con-la-limpieza-de-las-lagunas-cloacales-y-el-canal-derivador-2026-10-03-15-13",
+      "summary": "Los trabajos alcanzaron un 90% de ejecución y permitirán recuperar la capacidad operativa de una infraestructura sanitaria que no recibía una intervención integral desde hace más de 20 años. La tarea tiene además un…",
+      "published": "2026-10-03T18:13:03+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "CHACO FUE SEDE DEL ENCUENTRO NACIONAL DE MUTUALISMO Y LAS ESCUELAS MOSTRARON SUS EXPERIENCIAS",
+      "link": "http://chaco.gob.ar/noticia-chaco-fue-sede-del-encuentro-nacional-de-mutualismo-y-las-escuelas-mostraron-sus-experiencias-2026-10-03-14-25",
+      "summary": "En el marco del Día Nacional del Mutualismo, que se conmemora este sábado 3 de octubre, Chaco fue sede del acto nacional que reunió a funcionarios provinciales, autoridades del Instituto Nacional de Asociativismo y…",
+      "published": "2026-10-03T17:25:54+00:00"
     },
     {
       "source_id": "chaco-gobierno",
@@ -18,150 +162,6 @@
       "link": "http://chaco.gob.ar/noticia-en-la-camara-de-comercio-internacional-zdero-posiciono-a-chaco-como-destino-para-invertir-y-producir-2026-10-03-12-15",
       "summary": "El Gobernador, junto al presidente de la Agencia Chaco, Martín Braillard Poccard, presentó ante empresarios europeos las oportunidades que ofrece la provincia para el desarrollo de negocios, la generación de empleo y la…",
       "published": "2026-10-03T15:15:54+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Elecciones en Brasil 2026: Lula da Silva y Flávio Bolsonaro, las fórmulas que concentran la atención este domingo",
-      "link": "https://www.rionegro.com.ar/mundo/elecciones-en-brasil-2026-lula-da-silva-y-flavio-bolsonaro-las-formulas-que-concentran-la-atencion-este-domingo-4746330/",
-      "summary": "",
-      "published": "2026-10-03T15:12:49+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "“Contra el huracán”: cuándo se podrá ver el gran estreno de Netflix inspirado en el devastador huracán Otis",
-      "link": "https://www.rionegro.com.ar/cultura/contra-el-huracan-cuando-se-podra-ver-el-gran-estreno-de-netflix-inspirado-en-el-devastador-huracan-otis-4746307/",
-      "summary": "",
-      "published": "2026-10-03T15:10:05+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Cutral Co suma 17 kilómetros de red de gas: más vecinos accederán al servicio",
-      "link": "https://www.rionegro.com.ar/politica/cutral-co-suma-17-kilometros-de-red-de-gas-mas-vecinos-accederan-al-servicio-4746277/",
-      "summary": "",
-      "published": "2026-10-03T15:08:11+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "La Selección Argentina se medirá con la Sub-23 de Burkina Faso: formaciones, hora y TV",
-      "link": "https://www.rionegro.com.ar/deportes/la-seleccion-argentina-se-medira-con-la-sub-23-de-burkina-faso-formaciones-hora-y-tv-4746332/",
-      "summary": "",
-      "published": "2026-10-03T15:06:14+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "La Fiesta Provincial del Maruchito vuelve a Aguada Guzmán: cuándo es y qué habrá",
-      "link": "https://www.rionegro.com.ar/sociedad/la-fiesta-provincial-del-maruchito-vuelve-a-aguada-guzman-cuando-es-y-que-habra-4746297/",
-      "summary": "",
-      "published": "2026-10-03T14:57:37+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Quién es Fran Liotta, el rugbier de 27 años al que vinculan con Lourdes Sánchez tras su separación del Chato Prada",
-      "link": "https://www.rionegro.com.ar/redes/quien-es-fran-liotta-el-rugbier-de-27-anos-al-que-vinculan-con-lourdes-sanchez-tras-su-separacion-del-chato-prada-4746340/",
-      "summary": "",
-      "published": "2026-10-03T14:56:37+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "La Justicia sancionó al concejal Juan Pablo Allan y le prohibió manejar durante 90 días",
-      "link": "https://www.eldia.com/politica-y-economia/la-justicia-sanciono-al-concejal-juan-pablo-allan-y-le-prohibio-manejar-durante-90-dias-politica-y-economia_1791035160",
-      "summary": "El concejal platense de La Libertad Avanza fue sancionado por conducir con alcohol en sangre durante un control en Pinamar. Adem&aacute;s, deber&aacute; pagar una multa cercana al mill&oacute;n de pesos.",
-      "published": "2026-10-03T13:56:46+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Murió un joven de 29 años tras un choque en Ruta 2",
-      "link": "https://www.eldia.com/policiales/murio-un-joven-de-29-anos-tras-un-choque-en-ruta-2-policiales_1791034140",
-      "summary": "El accidente ocurri&oacute; durante la madrugada en el kil&oacute;metro 176, en sentido hacia Mar del Plata. La v&iacute;ctima viajaba en un Volkswagen Voyage y falleci&oacute; en el lugar.",
-      "published": "2026-10-03T13:45:52+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "ELECCIONES EN LOS INSTITUTOS DE EDUCACIÓN SUPERIOR: MÁS DE 51 MIL ELECTORES HABILITADOS",
-      "link": "http://chaco.gob.ar/noticia-elecciones-en-los-institutos-de-educacion-superior-mas-de-51-mil-electores-habilitados-2026-10-03-10-44",
-      "summary": "El Ministerio de Educación, Cultura, Ciencia y Tecnología del Chaco avanza con el proceso electoral para la renovación de autoridades de los Institutos de Educación Superior (IES), en el marco de la Ley N° 647-E…",
-      "published": "2026-10-03T13:44:48+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Brasil camino a las urnas: qué se juega Argentina, la apuesta de Milei y el riesgo económico",
-      "link": "https://www.eldia.com/el-mundo/brasil-rumbo-a-las-urnas-que-se-juega-argentina-la-apuesta-de-milei-y-el-riesgo-economico-el-mundo_1790971200",
-      "summary": "Una victoria de Fl&aacute;vio Bolsonaro podr&iacute;a acercar a los gobiernos. La continuidad de Lula prolongar&iacute;a una relaci&oacute;n marcada por las tensiones. El domingo, las elecciones&nbsp;",
-      "published": "2026-10-03T12:28:08+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Colapinto tuvo un buen sábado en Bahréin y sueña con la remontada",
-      "link": "https://www.eldia.com/deportes/colapinto-tuvo-un-buen-sabado-en-bahrein-y-manana-largara-en-la-ultima-fila-deportes_1791024600",
-      "summary": "El piloto argentino de Alpine largar&aacute; este domingo en la &uacute;ltima fila por la doble sanci&oacute;n. Sin embargo, hoy mostr&oacute; buen ritmo y est&aacute; esperanzado con llegar a la zona de puntos",
-      "published": "2026-10-03T12:00:04+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "La Plata amaneció bajo la lluvia y anticipan tormentas aisladas durante todo el día",
-      "link": "https://www.eldia.com/la-ciudad/se-acercan-chaparrones-y-tormentas-a-la-plata-como-sigue-el-tiempo-este-sabado-la-ciudad_1791022680",
-      "summary": "",
-      "published": "2026-10-03T11:35:39+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Subió al techo para arreglar el tanque de agua, cayó desde siete metros y murió en La Plata",
-      "link": "https://www.eldia.com/policiales/subio-al-techo-para-arreglar-el-tanque-de-agua-cayo-desde-siete-metros-y-murio-en-la-plata-policiales_1791024060",
-      "summary": "",
-      "published": "2026-10-03T10:45:24+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "LA FIL CHACO 2026 VIVIRÁ UN SÁBADO A PURO LIBRO, CULTURA Y PROPUESTAS PARA TODA LA FAMILIA",
-      "link": "http://chaco.gob.ar/noticia-la-fil-chaco-2026-vivira-un-sabado-a-puro-libro-cultura-y-propuestas-para-toda-la-familia-2026-10-02-21-31",
-      "summary": "La Feria Iberoamericana del Libro continúa con gran convocatoria en el Domo del Centenario. Este sábado habrá presentaciones de libros, talleres, homenajes, espectáculos y la presencia destacada del escritor Federico…",
-      "published": "2026-10-03T00:31:53+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "MÁS CAUDAL Y MAYOR CAPACIDAD: SAMEEP REFUERZA EL SERVICIO EN LA LEONESA",
-      "link": "http://chaco.gob.ar/noticia-mas-caudal-y-mayor-capacidad-sameep-refuerza-el-servicio-en-la-leonesa-2026-10-02-20-42",
-      "summary": "La empresa Sameep concretó una importante intervención en el sistema de abastecimiento de agua de la zona de La Leonesa, con la instalación y puesta en funcionamiento de una bomba de impulsión con capacidad de 200 m³.…",
-      "published": "2026-10-02T23:42:11+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "”VER PARA SER LIBRES” ENTREGÓ HOY MÁS DE 300 ANTEOJOS EN EL BARRIO TOBA Y EN VILLA LIBERTAD",
-      "link": "http://chaco.gob.ar/noticia-ver-para-ser-libres-entrego-hoy-mas-de-300-anteojos-en-el-barrio-toba-y-en-villa-libertad-2026-10-02-19-45",
-      "summary": "El programa nacional “Ver para Ser Libres” realizó este viernes operativos simultáneos de salud visual en la EPGCBII N° 1 del barrio Toba y en el Club Regional de Villa Libertad, donde se entregaron más de 300 anteojos…",
-      "published": "2026-10-02T22:45:51+00:00"
     }
   ],
   "failed_sources": [
