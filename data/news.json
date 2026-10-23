@@ -1,167 +1,167 @@
 {
-  "generated_at": "2026-10-22T16:08:22.951511+00:00",
+  "generated_at": "2026-10-23T15:58:37.224460+00:00",
   "items": [
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Riesgo país hoy: alcanzó los 707 puntos al ritmo de Wall Street y el petróleo",
-      "link": "https://www.rionegro.com.ar/economia/riesgo-pais-hoy-alcanzo-los-707-puntos-al-ritmo-de-wall-street-y-el-petroleo-4768596/",
-      "summary": "",
-      "published": "2026-10-22T16:06:34+00:00"
-    },
-    {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "Maravilla Martínez llega a Cutral Co para «Formar a los Formadores»",
-      "link": "https://www.rionegro.com.ar/deportes/maravilla-martinez-llega-a-cutral-co-para-formar-a-los-formadores-4768575/",
-      "summary": "",
-      "published": "2026-10-22T16:06:09+00:00"
-    },
-    {
       "source_id": "eldia",
       "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Tras los reclamos por la basura que dejaron los fans de BTS, la Municipalidad desplegó un operativo de limpieza",
-      "link": "https://www.eldia.com/la-ciudad/tras-los-reclamos-por-la-basura-que-dejaron-los-fans-de-bts-la-municipalidad-desplego-un-operativo-de-limpieza-la-ciudad_1792680660",
-      "summary": "Medio centenar de agentes, adem&aacute;s del apoyo de camiones destinados a las tareas de barrido, embolsado y recolecci&oacute;n de residuos",
-      "published": "2026-10-22T16:05:12+00:00"
+      "title": "Tensión en la Estación de Trenes: Denuncian ataques a vehículos de aplicación en medio de reclamos y creciente malestar",
+      "link": "https://www.eldia.com/la-ciudad/denuncian-ataque-a-piedrazos-a-un-ubber-en-la-plata-medio-de-la-tension-con-taxistas-la-ciudad_1792766640",
+      "summary": "En medio de advertencias sobre el fin de las treguas, los grupos de trabajadores reflejan un clima de creciente conflictividad en la calle",
+      "published": "2026-10-23T15:56:22+00:00"
     },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
       "category": "Regional",
-      "title": "El BID aprobó una garantía de USD 200 millones para el plan eléctrico que impulsa el Gobierno: el anuncio de Luis Caputo",
-      "link": "https://www.rionegro.com.ar/economia/el-bid-aprobo-una-garantia-de-usd-200-millones-para-el-plan-electrico-que-impulsa-el-gobierno-el-anuncio-de-luis-caputo-4768578/",
+      "title": "Detuvieron a un médico en Esquel acusado de mantener cautivos a su pareja y sus tres hijos",
+      "link": "https://www.rionegro.com.ar/policiales/detuvieron-a-un-medico-en-esquel-acusado-de-mantener-cautivos-a-su-pareja-y-sus-tres-hijos-4770042/",
       "summary": "",
-      "published": "2026-10-22T16:00:28+00:00"
+      "published": "2026-10-23T15:54:51+00:00"
     },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
       "category": "Regional",
-      "title": "«Memoria activa»: Estela de Carlotto cumple 96 años, su mensaje",
-      "link": "https://www.rionegro.com.ar/sociedad/memoria-activa-estela-de-carlotto-cumple-96-anos-su-mensaje-4768567/",
+      "title": "Rincón de los Sauces, la ciudad más golpeada por el temporal: sobrevolarán Neuquén para relevar zonas críticas",
+      "link": "https://www.rionegro.com.ar/sociedad/rincon-de-los-sauces-la-ciudad-mas-golpeada-por-el-temporal-sobrevolaran-neuquen-para-relevar-zonas-criticas-4769994/",
       "summary": "",
-      "published": "2026-10-22T15:59:24+00:00"
+      "published": "2026-10-23T15:53:11+00:00"
     },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
       "category": "Regional",
-      "title": "El emotivo homenaje de Eduardo Feinmann al Negro González Oro: “Difícil hablar de vos en pasado”",
-      "link": "https://www.rionegro.com.ar/redes/el-emotivo-homenaje-de-eduardo-feinmann-al-negro-gonzalez-oro-dificil-hablar-de-vos-en-pasado-4768593/",
+      "title": "Verón apuntó a AFA tras la clasificación de Estudiantes a la final de Libertadores: «Faltan recursos»",
+      "link": "https://www.rionegro.com.ar/deportes/veron-apunto-a-afa-tras-la-clasificacion-de-estudiantes-a-la-final-de-libertadores-faltan-recursos-4769942/",
       "summary": "",
-      "published": "2026-10-22T15:58:45+00:00"
+      "published": "2026-10-23T15:50:25+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Vecinos de Villa Elisa reclaman por una calle intransitable y temen desbordes ante las lluvias: \"Es un peligro\"",
+      "link": "https://www.eldia.com/la-ciudad/vecinos-de-villa-elisa-reclaman-por-una-calle-intransitable-y-temen-desbordes-ante-las-lluvias-es-un-peligro-la-ciudad_1792768440",
+      "summary": "En 26 y 418 bis, frentistas denuncian el estado crítico de la calzada con zanjas a cielo abierto y advierten que la zona se convertirá en un \"caos\"",
+      "published": "2026-10-23T15:49:42+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Los mensajes de Chiqui Tapia y Alejandro Domínguez a Estudiantes: \"Suerte en Montevideo\"",
+      "link": "https://www.eldia.com/deportes/chiqui-tapia-felicito-a-estudiantes-mucha-suerte-en-montevideo-deportes_1792725720",
+      "summary": "Tras el triunfo por penales ante Flamengo que le dio el pasaje a la final de la Copa Libertadores 2026",
+      "published": "2026-10-23T15:49:34+00:00"
     },
     {
       "source_id": "rionegro",
       "source_name": "Río Negro",
       "category": "Regional",
-      "title": "Qué es el virus Shamonda: se detectó en Francia el primer caso en humanos, todo lo que se sabe sobre el contagio",
-      "link": "https://www.rionegro.com.ar/mundo/que-es-el-virus-shamonda-se-detecto-en-francia-el-primer-caso-en-humanos-todo-lo-que-se-sabe-sobre-el-contagio-4768572/",
+      "title": "Una novela premiada bajo sospecha: Pangram atribuye a la inteligencia artificial el 99% de Donde el agua trabaja",
+      "link": "https://www.rionegro.com.ar/lecton/una-novela-premiada-bajo-sospecha-pangram-atribuye-a-la-inteligencia-artificial-el-99-de-donde-el-agua-trabaja-4770021/",
       "summary": "",
-      "published": "2026-10-22T15:55:51+00:00"
+      "published": "2026-10-23T15:45:28+00:00"
     },
     {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
       "category": "Regional",
-      "title": "El riesgo país vuelve a superar los 700 puntos",
-      "link": "https://www.eldia.com/politica-y-economia/el-riesgo-pais-vuelve-a-superar-los-700-puntos-politica-y-economia_1792683480",
-      "summary": "Los bonos argentinos otra vez cotizan en baja. La incidencia del dato de la econom&iacute;a",
-      "published": "2026-10-22T15:54:50+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Coty Romero presentó a su nuevo novio en las redes: quién es el joven que conquistó su corazón",
-      "link": "https://www.eldia.com/espectaculos/coty-romero-presento-a-su-nuevo-novio-en-las-redes-quien-es-el-joven-que-conquisto-su-corazon-espectaculos_1792679880",
+      "title": "Horóscopo: los 5 signos que tendrán grandes cambios con la temporada de Escorpio antes de noviembre",
+      "link": "https://www.rionegro.com.ar/horoscopo/horoscopo-los-5-signos-que-tendran-grandes-cambios-con-la-temporada-de-escorpio-antes-de-noviembre-4770020/",
       "summary": "",
-      "published": "2026-10-22T14:50:44+00:00"
+      "published": "2026-10-23T15:42:30+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "El profundo dolor de Soledad Pastorutti por la salud de su papá: “Ya no sabe quién soy yo”",
+      "link": "https://www.rionegro.com.ar/redes/el-profundo-dolor-de-soledad-pastorutti-por-la-salud-de-su-papa-ya-no-sabe-quien-soy-yo-4770007/",
+      "summary": "",
+      "published": "2026-10-23T15:36:01+00:00"
     },
     {
       "source_id": "eldia",
       "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Milei volvió a criticar a Pedro Sánchez: lo acusó de “ladrón”",
-      "link": "https://www.eldia.com/politica-y-economia/milei-volvio-a-criticar-a-pedro-sanchez-lo-acuso-de-ladron-politica-y-economia_1792679220",
-      "summary": "\"No es más que un kirchnerista con las restricciones de la Unión Europea\", sostuvo durante una entrevista",
-      "published": "2026-10-22T14:46:59+00:00"
+      "title": "Dos ladrones en moto murieron tras una persecución policial y un brutal tiroteo",
+      "link": "https://www.eldia.com/quilmes/dos-ladrones-en-moto-murieron-tras-una-persecucion-policial-y-un-brutal-tiroteo-quilmes_1792767180",
+      "summary": "",
+      "published": "2026-10-23T15:05:09+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "EL GOBIERNO PROVINCIAL OTORGÓ UN PREDIO A LA FUNDACIÓN 4 PATITAS PARA FORTALECER EL RESCATE Y EL CUIDADO ANIMAL",
+      "link": "http://chaco.gob.ar/noticia-el-gobierno-provincial-otorgo-un-predio-a-la-fundacion-4-patitas-para-fortalecer-el-rescate-y-el-cuidado-animal-2026-10-23-11-53",
+      "summary": "Este viernes, el gobernador Leandro Zdero encabezó la firma de un convenio de comodato que permitirá a la organización contar con un espacio propio para desarrollar sus actividades y asistir a animales rescatados,…",
+      "published": "2026-10-23T14:53:41+00:00"
     },
     {
       "source_id": "eldia",
       "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Dolor en Los Tilos por la muerte de Martín San Sebastián",
-      "link": "https://www.eldia.com/deportes/dolor-en-los-tilos-por-la-muerte-de-martin-san-sebastian-deportes_1792675320",
-      "summary": "&quot;Sanse&quot; fue colaborador del club. En las redes sociales la comunidad lo record&oacute; en medio de un profundo pesar",
-      "published": "2026-10-22T14:30:12+00:00"
+      "title": "VIDEO | Abrazos y lágrimas entre Carrillo y Correa, a los que se sumó Marcos Rojo",
+      "link": "https://www.eldia.com/deportes/abrazos-y-lagrimas-entre-guido-carrillo-y-joaquin-correa-a-los-que-se-sumo-marcos-rojo-deportes_1792764960",
+      "summary": "",
+      "published": "2026-10-23T14:43:39+00:00"
     },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "MISIÓN NUEVA POMPEYA: EL IPDUV AVANZA CON OBRAS DE VIVIENDAS",
-      "link": "http://chaco.gob.ar/noticia-mision-nueva-pompeya-el-ipduv-avanza-con-obras-de-viviendas-2026-10-22-11-03",
-      "summary": "Fernando Berecoechea, supervisó las obras que se ejecutan mediante un convenio con el Municipio local, con el objetivo de brindar soluciones habitacionales y mejorar la calidad de vida de las familias chaqueñas.El…",
-      "published": "2026-10-22T14:03:00+00:00"
+      "title": "AUMENTARON A $15 MILLONES LA RECOMPENSA PARA QUIEN APORTE DATOS SOBRE EL PARADERO DE AXEL ALEJANDRO GONZÁLEZ",
+      "link": "http://chaco.gob.ar/noticia-aumentaron-a-15-millones-la-recompensa-para-quien-aporte-datos-sobre-el-paradero-de-axel-alejandro-gonzalez-2026-10-23-11-34",
+      "summary": "La medida fue dispuesta por el Ministerio de Seguridad Nacional y busca intensificar la difusión de información que permita encontrar al joven, desaparecido desde el 17 de mayo de 2026.El Ministerio de Seguridad…",
+      "published": "2026-10-23T14:34:25+00:00"
     },
     {
       "source_id": "eldia",
       "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Peligro en La Plata: un árbol inclinado \"a punto de caer\" en barrio Norte",
-      "link": "https://www.eldia.com/la-ciudad/peligro-en-la-plata-vecinos-denuncian-un-arbol-inclinado-a-punto-de-caer-en-barrio-norte-la-ciudad_1792674480",
-      "summary": "En 39 entre 15 y 16, un ejemplar a&ntilde;oso que destruy&oacute; la vereda, rompi&oacute; el cord&oacute;n y amenaza con desplomarse sobre la calle.",
-      "published": "2026-10-22T13:13:13+00:00"
+      "title": "Paritaria bonaerense: los judiciales también aceptaron el aumento salarial del 6%",
+      "link": "https://www.eldia.com/politica-y-economia/paritaria-bonaerense-los-judiciales-tambien-aceptaron-el-aumento-salarial-del-6-politica-y-economia_1792764600",
+      "summary": "Tras arreglar con algunos docentes y con estatales, el Gobierno de Kicillof cerr&oacute; otro frente de conflicto con los trabajadores estatales del Poder Judicial",
+      "published": "2026-10-23T14:14:07+00:00"
     },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "FUERTE ESPERANZA: HISTÓRICO REMATE GANADERO CON ACOMPAÑAMIENTO DEL GOBIERNO PROVINCIAL",
-      "link": "http://chaco.gob.ar/noticia-fuerte-esperanza-historico-remate-ganadero-con-acompanamiento-del-gobierno-provincial-2026-10-22-09-18",
-      "summary": "Con la concentración de 386 animales de pequeños y grandes productores, se concretó una jornada histórica para la ganadería de la zona, con ejemplares de excelente calidad y muy buenos precios. A través del sistema de…",
-      "published": "2026-10-22T12:18:00+00:00"
+      "title": "CAPITAL NORTE: ZDERO DESTACÓ EL PLAN ESTRATÉGICO PROVINCIAL PARA PROMOVER EL DESARROLLO ECONÓMICO",
+      "link": "http://chaco.gob.ar/noticia-capital-norte-zdero-destaco-el-plan-estrategico-provincial-para-promover-el-desarrollo-economico-2026-10-23-10-19",
+      "summary": "El gobernador destacó las políticas de reducción impositiva, los incentivos a la inversión y el impulso a la producción y las exportaciones, durante el cierre del Primer Foro de Economía y Finanzas del Norte Argentino,…",
+      "published": "2026-10-23T13:19:44+00:00"
     },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "SUELDOS DE OCTUBRE: PASIVOS COBRAN EL 29 Y ACTIVOS EL 30 DE OCTUBRE",
-      "link": "http://chaco.gob.ar/noticia-sueldos-de-octubre-pasivos-cobran-el-29-y-activos-el-30-de-octubre-2026-10-22-09-16",
-      "summary": "El sector pasivo cobrará el jueves 29, mientras que los trabajadores activos tendrán acreditados sus sueldos el viernes 30 de octubre. En ambos casos, los fondos estarán disponibles para su retiro por cajeros…",
-      "published": "2026-10-22T12:16:24+00:00"
+      "title": "EL OPERATIVO RES ATENDIÓ A MÁS DE 400 PACIENTES EN PAMPA DEL INFIERNO",
+      "link": "http://chaco.gob.ar/noticia-el-operativo-res-atendio-a-mas-de-400-pacientes-en-pampa-del-infierno-2026-10-23-09-41",
+      "summary": "La jornada se realizó en el Hospital Almirante Brown, con prestaciones y profesionales de distintas especialidades.El Gobierno del Chaco, a través de la Secretaría de Asuntos Estratégicos y el Ministerio de Salud, llevó…",
+      "published": "2026-10-23T12:41:28+00:00"
     },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "VOCES, HISTORIAS Y LEGADO: CHACO HOMENAJEÓ A MUJERES DE PUEBLOS ORIGINARIOS",
-      "link": "http://chaco.gob.ar/noticia-voces-historias-y-legado-chaco-homenajeo-a-mujeres-de-pueblos-originarios-2026-10-21-20-01",
-      "summary": "El Gobierno del Chaco, a través del Instituto de Cultura, homenajeó este miércoles a mujeres de pueblos originarios por sus trayectorias, su aporte cultural y su compromiso con el desarrollo de sus comunidades. La…",
-      "published": "2026-10-21T23:01:40+00:00"
+      "title": "DE EL SAUZALITO A DUBÁI: LA PRODUCCIÓN CAPRINA CHAQUEÑA LLEGA A MERCADOS INTERNACIONALES",
+      "link": "http://chaco.gob.ar/noticia-de-el-sauzalito-a-dubai-la-produccion-caprina-chaquena-llega-a-mercados-internacionales-2026-10-23-08-07",
+      "summary": "El gobernador Leandro Zdero encabezó la entrega de la documentación para el traslado de cabras de descarte al frigorífico de Pampa del Infierno y de allí a Dubái; que integrarán el 5to. contenedor con destino a mercados…",
+      "published": "2026-10-23T11:07:24+00:00"
     },
     {
       "source_id": "chaco-gobierno",
       "source_name": "Gobierno del Chaco",
       "category": "Provincia",
-      "title": "MATKOVICH: “FONTANA TENDRÁ UNA DIVISIÓN ANTINARCÓTICOS CON ATENCIÓN LAS 24 HORAS”",
-      "link": "http://chaco.gob.ar/noticia-matkovich-fontana-tendra-una-division-antinarcoticos-con-atencion-las-24-horas-2026-10-21-18-41",
-      "summary": "El Gobierno provincial y el municipio local avanzan en la instalación de una nueva unidad de la Policía del Chaco para reforzar la lucha contra el narcomenudeo y el narcotráfico. Además, ampliarán el sistema de…",
-      "published": "2026-10-21T21:41:55+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "MÁS DE 200 ESTUDIANTES PARTICIPARON DEL PRIMER ENCUENTRO DEPORTIVO INTERREGIONAL DE OLIMPIADAS INCLUSIVAS",
-      "link": "http://chaco.gob.ar/noticia-mas-de-200-estudiantes-participaron-del-primer-encuentro-deportivo-interregional-de-olimpiadas-inclusivas-2026-10-21-17-43",
-      "summary": "El Ministerio de Educación acompañó la realización del Primer Encuentro Deportivo Interregional de las Olimpiadas Inclusivas, que convocó a más de 200 estudiantes de escuelas de Educación Especial de las Regionales…",
-      "published": "2026-10-21T20:43:01+00:00"
+      "title": "SECHEEP: CUADRILLAS DEL INTERIOR SE SUMAN A LOS TRABAJOS ELÉCTRICOS EN EL GRAN RESISTENCIA",
+      "link": "http://chaco.gob.ar/noticia-secheep-cuadrillas-del-interior-se-suman-a-los-trabajos-electricos-en-el-gran-resistencia-2026-10-22-21-05",
+      "summary": "En el marco del Plan de Contingencia, operarios y maquinarias de distintas localidades se sumaron a las tareas en el Gran Resistencia y zonas aledañas, afectadas por el temporal de hoy. Los trabajos incluyen la…",
+      "published": "2026-10-23T00:05:40+00:00"
     }
   ],
   "failed_sources": [
