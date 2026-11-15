@@ -1,68 +1,140 @@
 {
-  "generated_at": "2026-11-14T17:22:26.792280+00:00",
+  "generated_at": "2026-11-15T18:02:38.792898+00:00",
   "items": [
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Golpe narco en Plottier y Zapala: secuestraron cocaína, casi $3 millones y una camioneta en nueve allanamientos",
+      "link": "https://www.rionegro.com.ar/policiales/golpe-narco-en-plottier-y-zapala-secuestraron-cocaina-casi-3-millones-y-una-camioneta-en-nueve-allanamientos-4799421/",
+      "summary": "",
+      "published": "2026-11-15T18:00:38+00:00"
+    },
+    {
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "EDUCACIÓN REALIZARÁ EVALUACIÓN INTEGRAL DE 7° GRADO Y LOS EXÁMENES DE INGRESO AL SECUNDARIO",
+      "link": "http://chaco.gob.ar/noticia-educacion-realizara-evaluacion-integral-de-7deg-grado-y-los-examenes-de-ingreso-al-secundario-2026-11-15-14-54",
+      "summary": "El Ministerio de Educación del Chaco llevará adelante, los días 26 y 27 de noviembre, la Evaluación Integral de Lengua y Matemática, destinada a todos los estudiantes que se encuentran finalizando el 7° grado del Nivel…",
+      "published": "2026-11-15T17:54:24+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Gustavo Fernández se sacó la espina y se convirtió en el Maestro del Tenis Adaptado",
+      "link": "https://www.rionegro.com.ar/deportes/gustavo-fernandez-se-saco-la-espina-y-se-convirtio-en-el-maestro-del-tenis-adaptado-4799403/",
+      "summary": "",
+      "published": "2026-11-15T17:45:30+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Cipolletti va por la semifinal de la reválida del Federal A contra Juventud Antoniana",
+      "link": "https://www.rionegro.com.ar/deportes/futbol/cipolletti-va-por-la-semifinal-de-la-revalida-del-federal-a-contra-juventud-antoniana-4799369/",
+      "summary": "",
+      "published": "2026-11-15T17:38:46+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "El insólito anuncio de Martín Cirio sobre su candidatura a diputado que desconcertó a todos: qué dijo en sus historias",
+      "link": "https://www.rionegro.com.ar/redes/el-insolito-anuncio-de-martin-cirio-sobre-su-candidatura-a-diputado-que-desconcerto-a-todos-que-dijo-en-sus-historias-4799405/",
+      "summary": "",
+      "published": "2026-11-15T17:33:24+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "«Te amamos, Gia y yo»: así fue el íntimo festejo de cumpleaños de Paulo Dybala junto a Oriana Sabatini",
+      "link": "https://www.rionegro.com.ar/redes/te-amamos-gia-y-yo-asi-fue-el-intimo-festejo-de-cumpleanos-de-paulo-dybala-junto-a-oriana-sabatini-4799401/",
+      "summary": "",
+      "published": "2026-11-15T17:23:24+00:00"
+    },
+    {
+      "source_id": "rionegro",
+      "source_name": "Río Negro",
+      "category": "Regional",
+      "title": "Reforma electoral en riesgo: el PRO rechaza los cambios de última hora del Gobierno y duda de los votos para eliminar las PASO",
+      "link": "https://www.rionegro.com.ar/politica/reforma-electoral-en-riesgo-el-pro-rechaza-los-cambios-de-ultima-hora-del-gobierno-y-duda-de-los-votos-para-eliminar-las-paso-4799393/",
+      "summary": "",
+      "published": "2026-11-15T16:59:57+00:00"
+    },
     {
       "source_id": "eldia",
       "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Ola de reclamos contra Edelap este sábado: cortes, intermitencias y \"arreglos precarios\"",
-      "link": "https://www.eldia.com/la-ciudad/bateria-de-reclamos-contra-edelap-este-sabado-los-debitos-indebidos-cortes-interrupciones-y-reparaciones-precarias-la-ciudad_1794670860",
-      "summary": "Usuarios del servicio el&eacute;ctrico de distintos puntos de la Ciudad se manifestaron esta ma&ntilde;ana por diferentes problemas con la empresa distribuidora de energ&iacute;a&nbsp;",
-      "published": "2026-11-14T17:21:10+00:00"
+      "title": "FOTOS | El Plan de la Mariposa regresó a La Plata y vivió una noche a sala llena en Atenas",
+      "link": "https://www.eldia.com/espectaculos/el-plan-de-la-mariposa-regreso-a-la-plata-y-vivio-una-noche-a-sala-llena-en-atenas-espectaculos_1794760200",
+      "summary": "La banda familiar de Necochea dio anoche un show de m&aacute;s de dos horas en el Club Atenas, con un repaso por sus canciones m&aacute;s conocidas, antes de un 2027 que la llevar&aacute; por primera vez a Australia.",
+      "published": "2026-11-15T16:30:18+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "“Un ADN 100% de la ciudad”: Ritual lleva la cocina de Cipolletti al Parque Rosauer",
-      "link": "https://www.rionegro.com.ar/sociedad/un-adn-100-de-la-ciudad-ritual-lleva-la-cocina-de-cipolletti-al-parque-rosauer-4798554/",
-      "summary": "",
-      "published": "2026-11-14T17:17:48+00:00"
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "CHACO VIBRA 2026: LA POLICÍA DIFUNDE LA BÚSQUEDA DE AXEL GONZÁLEZ Y EL OFRECIMIENTO DE RECOMPENSA",
+      "link": "http://chaco.gob.ar/noticia-chaco-vibra-2026-la-policia-difunde-la-busqueda-de-axel-gonzalez-y-el-ofrecimiento-de-recompensa-2026-11-15-13-24",
+      "summary": "En el marco del evento, efectivos de la Policía del Chaco llevan adelante un operativo de difusión para fortalecer la búsqueda de Axel Alejandro González y ampliar las posibilidades de obtener información sobre su…",
+      "published": "2026-11-15T16:24:32+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "River venció a Gimnasia en un amistoso con los titulares en el Monumental",
-      "link": "https://www.rionegro.com.ar/deportes/river-vencio-a-gimnasia-en-un-amistoso-con-los-titulares-en-el-monumental-4798636/",
-      "summary": "",
-      "published": "2026-11-14T17:16:58+00:00"
+      "title": "VIDEO. Otra noche de descontrol en La Plata: caravana de más de 100 motos, ruidos y maniobras peligrosas",
+      "link": "https://www.eldia.com/policiales/otra-noche-de-descontrol-en-la-plata-una-caravana-de-mas-de-100-motos-provoco-ruidos-y-maniobras-peligrosas-policiales_1794752940",
+      "summary": "Durante la madrugada de este domingo, al menos un centenar de motociclistas recorri&oacute; distintos puntos de La Plata y la regi&oacute;n con explosiones de escapes, aceleradas y maniobras peligrosas. Un testigo…",
+      "published": "2026-11-15T15:40:45+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
-      "category": "Regional",
-      "title": "El Gobierno acelera las negociaciones para reunir los votos y suspender las PASO",
-      "link": "https://www.rionegro.com.ar/politica/el-gobierno-acelera-las-negociaciones-para-reunir-los-votos-y-suspender-las-paso-4798635/",
-      "summary": "",
-      "published": "2026-11-14T17:15:00+00:00"
+      "source_id": "chaco-gobierno",
+      "source_name": "Gobierno del Chaco",
+      "category": "Provincia",
+      "title": "SAMEEP PUSO EN MARCHA UNA TERCERA BOMBA Y AUMENTÓ EL CAUDAL DE AGUA POTABLE PARA SEIS LOCALIDADES",
+      "link": "http://chaco.gob.ar/noticia-sameep-puso-en-marcha-una-tercera-bomba-y-aumento-el-caudal-de-agua-potable-para-seis-localidades-2026-11-15-12-37",
+      "summary": "Los trabajos benefician directamente a los vecinos de El Espinillo, Villa Río Bermejito, Fortín Lavalle, Puerto Lavalle, Juan José Castelli y Miraflores, comunidades que dependen de esta planta para la producción y…",
+      "published": "2026-11-15T15:37:23+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Elecciones 2027 en Neuquén: Comunidad presentó sus candidatos para febrero",
-      "link": "https://www.rionegro.com.ar/politica/elecciones-2027-en-neuquen-comunidad-presento-sus-candidatos-para-febrero-4798556/",
-      "summary": "",
-      "published": "2026-11-14T17:13:05+00:00"
+      "title": "Robaron el supermercado de un concejal de Berisso: entraron por un ventiluz y todo quedó filmado",
+      "link": "https://www.eldia.com/policiales/robaron-el-supermercado-de-un-concejal-de-berisso-entraron-por-un-ventiluz-y-todo-quedo-filmado-policiales_1794755340",
+      "summary": "Un delincuente encapuchado ingres&oacute; durante la madrugada del s&aacute;bado al comercio familiar del concejal Dami&aacute;n Mena, ubicado en 32 y 174, en el barrio Banco Provincia. El ladr&oacute;n entr&oacute; por…",
+      "published": "2026-11-15T15:11:43+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Jubilaciones: la Justicia declaró inconstitucional la fórmula de movilidad que regía durante el gobierno de Alberto Fernández",
-      "link": "https://www.rionegro.com.ar/justicia/jubilaciones-la-justicia-declaro-inconstitucional-la-formula-de-movilidad-que-regia-durante-el-gobierno-de-alberto-fernandez-4798629/",
-      "summary": "",
-      "published": "2026-11-14T17:10:37+00:00"
+      "title": "Los micros de La Plata vuelven a aumentar en diciembre: cuánto costará el boleto",
+      "link": "https://www.eldia.com/la-ciudad/los-micros-de-la-plata-vuelven-a-aumentar-en-diciembre-cuanto-costara-el-boleto-desde-el-1-la-ciudad_1794750480",
+      "summary": "Los usuarios del transporte p&uacute;blico de La Plata, Berisso y Ensenada deber&aacute;n afrontar una nueva suba a partir del pr&oacute;ximo mes. El incremento inicial ser&aacute; de al menos el 4% y el boleto…",
+      "published": "2026-11-15T14:21:03+00:00"
     },
     {
-      "source_id": "rionegro",
-      "source_name": "Río Negro",
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
       "category": "Regional",
-      "title": "Cierran el paso Cardenal Samoré y se complica el cruce a Chile desde Neuquén: los motivos y cuándo volverá a abrir",
-      "link": "https://www.rionegro.com.ar/servicios/cierran-el-paso-cardenal-samore-y-se-complica-el-cruce-a-chile-desde-neuquen-los-motivos-y-cuando-volvera-a-abrir-4798619/",
+      "title": "Domingo de choques en La Plata: una camioneta arrasó con las palmeras de avenida 13",
+      "link": "https://www.eldia.com/policiales/domingo-de-choques-en-la-plata-una-camioneta-arraso-con-las-palmeras-de-una-rambla-y-hubo-dos-accidentes-mas-policiales_1794739500",
+      "summary": "Al menos, tres siniestros viales se registraron durante las primeras horas de este domingo en distintos puntos de la ciudad. En uno de ellos, una Chevrolet Meriva perdi&oacute; el control y termin&oacute; sobre la…",
+      "published": "2026-11-15T10:57:39+00:00"
+    },
+    {
+      "source_id": "eldia",
+      "source_name": "El Día (La Plata)",
+      "category": "Regional",
+      "title": "Uno por uno: el boletín de calificaciones de los jugadores de Boca vs. Banfield",
+      "link": "https://www.eldia.com/deportes/uno-por-uno-el-boletin-de-calificaciones-de-los-jugadores-de-boca-vs-banfield-deportes-edicion-impresa_1794731760",
       "summary": "",
-      "published": "2026-11-14T16:41:46+00:00"
+      "published": "2026-11-15T10:25:56+00:00"
     },
     {
       "source_id": "chaco-gobierno",
@@ -72,51 +144,6 @@
       "link": "http://chaco.gob.ar/noticia-zdero-acompano-los-100-anos-del-club-central-norte-con-la-inauguracion-de-un-nuevo-salon-de-usos-multiples-2026-11-14-11-58",
       "summary": "En el marco de la celebración del centenario del Club Central Norte, el gobernador Leandro Zdero acompañó anoche la inauguración de un nuevo Salón de Usos Múltiples (SUM), una obra que permitirá ampliar las actividades…",
       "published": "2026-11-14T14:58:52+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Choque entre un auto y una moto en La Plata: un joven de 22 años fue hospitalizado",
-      "link": "https://www.eldia.com/policiales/choque-entre-un-auto-y-una-moto-en-la-plata-un-joven-de-22-anos-fue-hospitalizado-policiales_1794667140",
-      "summary": "El accidente ocurri&oacute; en la esquina de 137 y 524. El motociclista sufri&oacute; golpes y dolores en un brazo y una pierna, por lo que fue trasladado al Hospital San Roque de Gonnet. Se encontraba consciente y…",
-      "published": "2026-11-14T14:47:04+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Japón derrotó a Brasil en la última jugada y dio el batacazo",
-      "link": "https://www.eldia.com/deportes/japon-dio-el-batacazo-y-derroto-a-brasil-en-la-ultima-jugada-deportes_1794663720",
-      "summary": "Los asi&aacute;ticos consiguieron un hist&oacute;rico triunfo por 3 a 2 ante el pentacampe&oacute;n del mundo",
-      "published": "2026-11-14T13:56:49+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Sábado con buen tiempo en La Plata: cómo estará el clima durante el fin de semana",
-      "link": "https://www.eldia.com/la-ciudad/sabado-con-buen-tiempo-en-la-plata-como-estara-el-clima-durante-el-fin-de-semana-la-ciudad_1794652260",
-      "summary": "La ciudad tendr&aacute; una jornada con condiciones favorables y una temperatura m&aacute;xima de 27 grados. El buen tiempo se mantendr&aacute; durante el domingo, mientras que para el lunes se espera un cielo…",
-      "published": "2026-11-14T10:39:17+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Otra noche épica en ¿el final de su carrera?",
-      "link": "https://www.eldia.com/deportes/otra-noche-epica-en-el-final-de-su-carrera-deportes_1794635893",
-      "summary": "Fue figura en la Supercopa Argentina y se ilusiona con la final de la Libertadores. Todo indica que el 27/11 colgará sus guantes",
-      "published": "2026-11-14T05:58:13+00:00"
-    },
-    {
-      "source_id": "eldia",
-      "source_name": "El Día (La Plata)",
-      "category": "Regional",
-      "title": "Las ofertas en El Nene para este fin de semana",
-      "link": "https://www.eldia.com/marcasytendencias/2026-5-9-4-0-0-las-ofertas-en-el-nene-para-este-fin-de-semana-marcasytendencias",
-      "summary": "",
-      "published": "2026-11-14T00:24:05+00:00"
     },
     {
       "source_id": "chaco-gobierno",
@@ -135,33 +162,6 @@
       "link": "http://chaco.gob.ar/noticia-chaco-hizo-historia-estudiantes-de-saenz-pena-se-consagraron-campeones-nacionales-de-sembrando-empresarios-2026-2026-11-13-18-24",
       "summary": "El equipo “Los Mourinho”, de la UEGP N.º 169 de Presidencia Roque Sáenz Peña, obtuvo el primer puesto en la XIX edición del certamen nacional, realizado en Villa General Belgrano, Córdoba. Además, otros dos equipos…",
       "published": "2026-11-13T21:24:41+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "JORNADA DE PREVENCIÓN: EDUCACIÓN PROMUEVE EL USO SEGURO Y RESPONSABLE DE LAS REDES SOCIALES",
-      "link": "http://chaco.gob.ar/noticia-jornada-de-prevencion-educacion-promueve-el-uso-seguro-y-responsable-de-las-redes-sociales-2026-11-13-15-04",
-      "summary": "El Ministerio de Educación del Chaco llevó adelante esta semana una charla taller de prevención y concientización sobre el uso seguro de las redes sociales, en el marco del Programa Federal Observatorio de Cibercrimen y…",
-      "published": "2026-11-13T18:04:29+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "FONTANA: ZDERO SUPERVISÓ LA AMPLIACIÓN DE LA AVENIDA ALVEAR PARA MEJORAR LA CIRCULACIÓN Y LA SEGURIDAD VIAL",
-      "link": "http://chaco.gob.ar/noticia-fontana-zdero-superviso-la-ampliacion-de-la-avenida-alvear-para-mejorar-la-circulacion-y-la-seguridad-vial-2026-11-13-13-32",
-      "summary": "Este viernes, el gobernador Leandro Zdero supervisó los trabajos de ampliación de la avenida Alvear, en la ciudad de Fontana, una intervención estratégica que permitirá optimizar la circulación vehicular, mejorar la…",
-      "published": "2026-11-13T16:32:54+00:00"
-    },
-    {
-      "source_id": "chaco-gobierno",
-      "source_name": "Gobierno del Chaco",
-      "category": "Provincia",
-      "title": "DEL COMPROMISO A LOS HECHOS: ZDERO INAUGURÓ NUEVAS CUADRAS DE PAVIMENTO EN DU GRATY",
-      "link": "http://chaco.gob.ar/noticia-del-compromiso-a-los-hechos-zdero-inauguro-nuevas-cuadras-de-pavimento-en-du-graty-2026-11-13-10-39",
-      "summary": "El gobernador Leandro Zdero inauguró ayer nuevas cuadras de pavimento en Coronel Du Graty, en el marco del trabajo conjunto que llevan adelante el Gobierno provincial y el municipio para avanzar con obras de…",
-      "published": "2026-11-13T13:39:31+00:00"
     }
   ],
   "failed_sources": [
